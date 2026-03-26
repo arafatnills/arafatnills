@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/CodeWithArafat1/CodeWithArafat1/blob/6a80b82a2dee323584cdeaf99940767226aa2ef9/bublic/my%20banner%20copy.png" alt="Typing SVG" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Arafat 👋</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
