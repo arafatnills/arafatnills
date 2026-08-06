@@ -6,7 +6,7 @@
 I'm a passionate **Full Stack Web Developer** who loves building clean, responsive, and interactive user experiences. I enjoy turning ideas into reality using modern web technologies.
 
 ### 🌱 What I'm Currently Learning    
-- Advanced Backend architecture, API design & System design  
+- Advanced Backend Development, API Architecture & System Design
 
 ### 💡 What I Love  
 Building scalable full-stack web applications with modern technologies, crafting intuitive and responsive user interfaces, developing robust backend systems, optimizing performance, and continuously exploring new tools and technologies to sharpen my skills.
